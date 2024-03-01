@@ -35,6 +35,11 @@
         </a>
       </nav>
     </header>
+
+    <?php
+      include('partials/header.php');
+    
+    ?>
     
     <main>
       <section class="slides-container">
